@@ -1,0 +1,6 @@
+在 index.html 文件所在的文件夹，按住 Shift + 右键，选择 在此处打开命令窗口 或 打开 PowerShell。
+
+输入以下命令并回车：
+python -m http.server 8080
+
+在浏览器打开 http://localhost:8080，动画应该可以正常显示。
